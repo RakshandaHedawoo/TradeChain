@@ -611,10 +611,11 @@ button{
 }
 
 .newsletter__input{
-  width: 70%;
-  padding: 0 .5rem;
-  background: none;
-  color: var(--title-color);
+  width: 20%;
+  height: 20%;
+  padding: 0.9rem;
+  background: white;
+  color: black;
 }
 
 .newsletter__input::placeholder{
